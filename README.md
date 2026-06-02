@@ -145,7 +145,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
 
 ## 🐍 Contribution Snake
 
