@@ -18,37 +18,40 @@
 
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-# 💫 About Me
+## 🚀 About Me
 
-```python
-class Sudharshan:
+<div align="center">
 
-    def __init__(self):
-        self.name = "Sudharshan P S"
-        self.role = "Cyber Security Student"
-        self.skills = [
-            "Python",
-            "Java",
-            "Cyber Security",
-            "Artificial Intelligence",
-            "Web Development"
-        ]
+<img width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-    def current_focus(self):
-        return [
-            "AI Projects",
-            "Cyber Security",
-            "Full Stack Development",
-            "Problem Solving"
-        ]
+</div>
 
-    def life_goal(self):
-        return "Become an Elite Security & AI Engineer"
+<br>
 
-me = Sudharshan()
-```
+<div align="center">
+
+🎓 Cyber Security Engineering Student  
+🤖 AI & Full-Stack Developer  
+🔐 Passionate About Ethical Hacking & Security Research  
+🚀 Building Real-World AI Systems & Developer Tools  
+🏆 Hackathon Finalist & Continuous Learner  
+🌱 Exploring Cloud Security, LLMs & Threat Detection  
+
+</div>
 
 ---
+
+## ⚡ Quick Info
+
+<div align="center">
+
+| 💡 Focus | 🔥 Interests | 🎯 Goal |
+|---|---|---|
+| Cyber Security | AI Development | Elite Security Engineer |
+| Full Stack Dev | Ethical Hacking | Build Innovative Systems |
+| Open Source | Automation | Tech Entrepreneurship |
+
+</div>
 
 # 🚀 Tech Stack
 
