@@ -1,17 +1,16 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sudharshan%20P%20S&fontAlign=50&fontAlignY=40&desc=Cyber%20Security%20%7C%20AI%20Developer%20%7C%20Full%20Stack&descAlignY=60&animation=twinkling&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f2027,50:203a43,100:2c5364&text=Sudharshan%20P%20S&fontColor=00FFFF&fontSize=65&animation=twinkling&desc=Cyber%20Security%20|%20AI%20Developer%20|%20Full%20Stack%20Developer&descAlignY=65"/>
 
 <h1 align="center">Hi 👋, I'm Sudharshan</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Cyber+Security+Student;AI+%26+Full+Stack+Developer;Java+%7C+Python+Developer;Building+Future+Projects+Everyday;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Cyber+Security+Student;AI+%26+Full+Stack+Developer;Java+%7C+Python+Developer;Building+Future+Projects+Everyday;Always+Learning+New+Things"/>
 </p>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=727724eucy106-ps&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=727724eucy106-ps&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -113,52 +112,3 @@
 🐍 Advanced Python
 ☕ Java Development
 🛡 Ethical Hacking
-````
-
----
-
-# 📂 Featured Projects
-
-| Project                    | Description                      |
-| -------------------------- | -------------------------------- |
-| 🔐 Cyber Security Projects | Security tools and learning      |
-| 🤖 AI Projects             | AI experiments and development   |
-| ☕ Java Projects            | Java mini projects and systems   |
-| 🌐 Portfolio Website       | Personal portfolio and web works |
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/727724eucy106-ps">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sudharshan-ps-5a6b9a325">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/727724eucy106-ps/.github/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-<div align="center">
-
-### ⚡ "Consistency + Skills + Projects = Success" ⚡
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-
-```
-```
