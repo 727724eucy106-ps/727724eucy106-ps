@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sudharshan%20P%20S&fontAlign=50&fontAlignY=40&desc=Cyber%20Security%20%7C%20AI%20Developer%20%7C%20Full%20Stack&descAlignY=60&animation=twinkling&fontColor=ffffff"/>
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/55bc8b88-c5ca-47bd-9e2c-78f7fa019896" /><img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sudharshan%20P%20S&fontAlign=50&fontAlignY=40&desc=Cyber%20Security%20%7C%20AI%20Developer%20%7C%20Full%20Stack&descAlignY=60&animation=twinkling&fontColor=ffffff"/>
 
 <h1 align="center">Hi 👋, I'm Sudharshan</h1>
 
@@ -146,3 +146,9 @@
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/727724eucy106-ps/.github/output/github-contribution-grid-snake-dark.svg" />
+</p>
