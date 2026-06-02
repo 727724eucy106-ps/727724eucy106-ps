@@ -1,168 +1,145 @@
-You are an elite GitHub Profile README designer and personal branding expert.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sudharshan%20P%20S&fontAlign=50&fontAlignY=40&desc=Cyber%20Security%20%7C%20AI%20Developer%20%7C%20Full%20Stack&descAlignY=60&animation=twinkling&fontColor=ffffff"/>
 
-Create a world-class, highly animated, futuristic, recruiter-attractive GitHub Profile README.md for me.
+<h1 align="center">Hi 👋, I'm Sudharshan</h1>
 
-The design must look premium, modern, cyberpunk, professional, and visually stunning — similar to top developer profiles on GitHub.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Cyber+Security+Student;AI+%26+Full+Stack+Developer;Java+%7C+Python+Developer;Building+Future+Projects+Everyday;Always+Learning+New+Things" />
+</p>
 
-════════════════════════════════════════════════════════════
+---
 
-👤 PERSONAL DETAILS
+<div align="center">
 
-Name: Sudharshan P S
-GitHub Username: 727724eucy106-ps
-Location: Coimbatore, Tamil Nadu, India
-Email: sudharshanthemagnet@gmail.com
+<img src="https://komarev.com/ghpvc/?username=727724eucy106-ps&label=Profile%20Views&color=0e75b6&style=flat" />
 
-Role:
-Cyber Security Student | AI Developer | Full-Stack Developer | Hackathon Finalist
+</div>
 
-Education:
-B.E CSE (Cyber Security)
-Sri Krishna College of Engineering and Technology
-2024 – 2028
-CGPA: 8.4
+---
 
-════════════════════════════════════════════════════════════
+<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🚀 TECH STACK
+# 💫 About Me
 
-Languages:
-Python, Java, C, C++, JavaScript, SQL
+```python
+class Sudharshan:
 
-Web:
-HTML, CSS, React.js
+    def __init__(self):
+        self.name = "Sudharshan P S"
+        self.role = "Cyber Security Student"
+        self.skills = [
+            "Python",
+            "Java",
+            "Cyber Security",
+            "Artificial Intelligence",
+            "Web Development"
+        ]
 
-AI / ML:
-OpenCV, MediaPipe, FastAPI
+    def current_focus(self):
+        return [
+            "AI Projects",
+            "Cyber Security",
+            "Full Stack Development",
+            "Problem Solving"
+        ]
 
-Tools:
-Git, GitHub, Linux, VS Code, MySQL
+    def life_goal(self):
+        return "Become an Elite Security & AI Engineer"
 
-Domains:
-Cyber Security
-Artificial Intelligence
-Full Stack Development
-Ethical Hacking
+me = Sudharshan()
+```
 
-════════════════════════════════════════════════════════════
+---
 
-🏆 ACHIEVEMENTS & CERTIFICATIONS
+# 🚀 Tech Stack
 
-- Top 50 Finalist — Hackademia Hackathon (500+ projects)
-- 2nd Runner-Up — Tex Research Hackathon
-- Deloitte Data Analytics Virtual Experience
-- Microsoft Cybersecurity Certification
-- Google AI Certification
-- Prompt Engineering Certification — Vanderbilt University
+<div align="center">
 
-════════════════════════════════════════════════════════════
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,javascript,git,github,linux,vscode,mysql"/>
 
-💼 EXPERIENCE
+</div>
 
-1. Deloitte — Data Analytics Virtual Experience
-2. Yuva Intern — Junior Software Developer Intern
-3. XECUREONE — Cybersecurity Content Intern
+---
 
-════════════════════════════════════════════════════════════
+# 📊 GitHub Stats
 
-📂 FEATURED PROJECTS
+<div align="center">
 
-1. Hackademia — AI Online Invigilation System
-Stack: Python, OpenCV, MediaPipe, FastAPI
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=727724eucy106-ps&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-2. Clinic Inventory System
-Stack: Java, MySQL
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=727724eucy106-ps&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-3. Certificate Generator
-Stack: Python, React.js
+</div>
 
-════════════════════════════════════════════════════════════
+---
 
-🎨 DESIGN REQUIREMENTS
+# 🔥 GitHub Streak
 
-Create the README with:
+<div align="center">
 
-✅ Animated cyberpunk wave banner
-✅ Futuristic hacker-style design
-✅ Animated typing text
-✅ Neon blue / purple cyber colors
-✅ Matrix / coding GIFs
-✅ Professional About Me code block
-✅ Dynamic tech stack icons
-✅ GitHub Stats Cards
-✅ Top Languages Card
-✅ Streak Stats
-✅ Contribution Graph
-✅ Trophy Wall
-✅ Profile Visitor Counter
-✅ Animated separators
-✅ Professional tables
-✅ Featured Projects Section
-✅ Certifications Section
-✅ Internship / Experience Section
-✅ Currently Learning Section
-✅ Connect With Me Section
-✅ Footer wave animation
+<img src="https://streak-stats.demolab.com?user=727724eucy106-ps&theme=tokyonight&hide_border=true"/>
 
-════════════════════════════════════════════════════════════
+</div>
 
-⚡ MAKE IT LOOK:
+---
 
-- Extremely professional
-- Highly animated
-- Modern developer portfolio style
-- Cybersecurity themed
-- AI engineer themed
-- Recruiter attractive
-- Premium GitHub aesthetic
-- Similar to top trending GitHub profiles
+# 📈 Contribution Graph
 
-════════════════════════════════════════════════════════════
+[![Sudharshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=727724eucy106-ps&theme=tokyo-night&hide_border=true)](https://github.com/727724eucy106-ps)
 
-🔗 USE ONLY THESE DOMAINS
+---
 
-Typing SVG:
-https://readme-typing-svg.demolab.com
+# 🏆 GitHub Trophy Wall
 
-GitHub Stats:
-https://github-readme-stats.vercel.app
+<div align="center">
 
-Streak Stats:
-https://streak-stats.demolab.com
+<img src="https://github-profile-trophy.vercel.app/?username=727724eucy106-ps&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
-Activity Graph:
-https://github-readme-activity-graph.vercel.app
+</div>
 
-Trophies:
-https://github-profile-trophy.vercel.app
+---
 
-Banner/Footer:
-https://capsule-render.vercel.app
+# 🌱 Currently Learning
 
-Badges:
-https://img.shields.io
+```txt
+🔐 Advanced Cyber Security
+🤖 Artificial Intelligence
+🌐 Full Stack Development
+🐍 Advanced Python
+☕ Java Development
+🛡 Ethical Hacking
+```
 
-Icons:
-https://skillicons.dev
+---
 
-Visitor Counter:
-https://komarev.com/ghpvc
+# 📂 Featured Projects
 
-════════════════════════════════════════════════════════════
+| Project | Description |
+|----------|-------------|
+| 🔐 Cyber Security Projects | Security tools and learning |
+| 🤖 AI Projects | AI experiments and development |
+| ☕ Java Projects | Java mini projects and systems |
+| 🌐 Portfolio Website | Personal portfolio and web works |
 
-⚠ IMPORTANT RULES
+---
 
-- Output ONLY raw README.md code
-- No explanations
-- No markdown code fences
-- Make the README very long, detailed, animated, and visually rich
-- Use centered layouts where appropriate
-- Use dark cyber aesthetic throughout
-- Ensure everything is mobile-friendly
-- Add smooth section organization
-- Use premium-looking badge styling
-- Make it feel like an elite software engineer profile
+# 🌐 Connect With Me
 
-════════════════════════════════════════════════════════════
+<div align="center">
 
-Generate the final production-ready GitHub Profile README now.
+<a href="https://github.com/727724eucy106-ps">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Consistency + Skills + Projects = Success" ⚡
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
