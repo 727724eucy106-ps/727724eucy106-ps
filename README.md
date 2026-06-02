@@ -1,15 +1,24 @@
-<h1 align="center">Hi 👋, I'm Sudharshan P S</h1>
-<h3 align="center">Cyber Security Student | AI Developer | Full Stack Learner</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sudharshan%20P%20S&fontAlign=50&fontAlignY=40&desc=Cyber%20Security%20%7C%20AI%20Developer%20%7C%20Full%20Stack&descAlignY=60&animation=twinkling&fontColor=ffffff"/>
+
+<h1 align="center">Hi 👋, I'm Sudharshan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cyber+Security+Enthusiast;AI+%26+Full+Stack+Developer;Java+%7C+Python+%7C+Web+Development;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Cyber+Security+Student;AI+%26+Full+Stack+Developer;Java+%7C+Python+Developer;Building+Future+Projects+Everyday;Always+Learning+New+Things" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<div align="center">
 
-### 👨‍💻 About Me
+<img src="https://komarev.com/ghpvc/?username=727724eucy106-ps&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+---
+
+<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+# 💫 About Me
 
 ```python
 class Sudharshan:
@@ -17,17 +26,120 @@ class Sudharshan:
     def __init__(self):
         self.name = "Sudharshan P S"
         self.role = "Cyber Security Student"
-        self.language_spoken = ["Python", "Java", "JavaScript"]
+        self.skills = [
+            "Python",
+            "Java",
+            "Cyber Security",
+            "Artificial Intelligence",
+            "Web Development"
+        ]
 
     def current_focus(self):
         return [
+            "AI Projects",
             "Cyber Security",
-            "Artificial Intelligence",
             "Full Stack Development",
             "Problem Solving"
         ]
 
-    def future_goal(self):
-        return "Become a skilled Cyber Security & AI Engineer"
+    def life_goal(self):
+        return "Become an Elite Security & AI Engineer"
 
 me = Sudharshan()
+```
+
+---
+
+# 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,javascript,git,github,linux,vscode,mysql"/>
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=727724eucy106-ps&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=727724eucy106-ps&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=727724eucy106-ps&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Sudharshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=727724eucy106-ps&theme=tokyo-night&hide_border=true)](https://github.com/727724eucy106-ps)
+
+---
+
+# 🏆 GitHub Trophy Wall
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=727724eucy106-ps&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+```txt
+🔐 Advanced Cyber Security
+🤖 Artificial Intelligence
+🌐 Full Stack Development
+🐍 Advanced Python
+☕ Java Development
+🛡 Ethical Hacking
+```
+
+---
+
+# 📂 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🔐 Cyber Security Projects | Security tools and learning |
+| 🤖 AI Projects | AI experiments and development |
+| ☕ Java Projects | Java mini projects and systems |
+| 🌐 Portfolio Website | Personal portfolio and web works |
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/727724eucy106-ps">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Consistency + Skills + Projects = Success" ⚡
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
