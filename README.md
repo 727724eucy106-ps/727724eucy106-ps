@@ -1,126 +1,114 @@
-Create an ultra-premium cinematic GitHub profile README for a developer named “Sudharshan P S”.  
-Theme should feel like a futuristic cyberpunk hacker + AI engineer portfolio with glowing neon aesthetics, smooth animated sections, cinematic visuals, modern developer branding, and elite placement-level presentation.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f2027,50:203a43,100:2c5364&text=Sudharshan%20P%20S&fontColor=00FFFF&fontSize=65&animation=twinkling&desc=Cyber%20Security%20|%20AI%20Developer%20|%20Full%20Stack%20Developer&descAlignY=65"/>
 
-Color Theme:
-- Neon Cyan
-- Electric Blue
-- Dark Black Background
-- Purple Glow
-- Futuristic gradients
-- Glassmorphism + holographic effects
+<h1 align="center">Hi 👋, I'm Sudharshan</h1>
 
-Overall Style:
-- Highly cinematic
-- Funky futuristic UI
-- Hacker aesthetic
-- Smooth animations
-- Premium developer portfolio look
-- Modern open-source creator vibe
-- Attractive for recruiters & tech companies
-- Professional but visually powerful
-- Use advanced animated SVGs and dynamic badges
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Cyber+Security+Student;AI+%26+Full+Stack+Developer;Java+%7C+Python+Developer;Building+Future+Projects+Everyday;Always+Learning+New+Things"/>
+</p>
 
-Add a massive animated waving header banner with:
-“Sudharshan P S”
-Subtitle:
-“Cyber Security Engineer | AI Developer | Full Stack Developer | Future Tech Innovator”
+---
 
-Use cinematic animated typing effects with multiple rotating lines:
-- Ethical Hacker & Security Researcher
-- AI & Full Stack Developer
-- Java | Python | MERN Stack
-- Building Real-World Intelligent Systems
-- Open Source Contributor
-- Exploring Cloud Security & LLMs
-- Hackathon Finalist
-- Future Cybersecurity Architect
+<div align="center">
 
-Add:
-- Animated neon divider lines
-- Floating GIFs
-- Hacker-themed coding animations
-- Futuristic developer illustrations
-- Glassmorphism cards
-- Neon glowing icons
-- Dynamic visitor counter
-- Professional social badges
+<img src="https://komarev.com/ghpvc/?username=727724eucy106-ps&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-Create sections in this order:
+</div>
 
-# Hero Intro
-A cinematic centered intro with glowing animations and futuristic text.
+---
 
-# About Me
-Make it stylish and cinematic:
-- Cyber Security Engineering Student
-- Passionate about Ethical Hacking & AI
-- Building futuristic developer tools
-- Interested in Threat Detection & Cloud Security
-- Loves solving real-world security problems
-- Tech explorer & lifelong learner
+<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-# Quick Highlights
-Display in futuristic animated cards/table format:
-- Cyber Security
-- AI Development
-- Full Stack Development
-- Ethical Hacking
-- Automation
-- Open Source
-- Tech Entrepreneurship
+# 🚀 About Me
 
-# Tech Arsenal
-Use animated skillicons for:
-Python, Java, C, C++, JavaScript, React, NodeJS, MongoDB, MySQL, Git, GitHub, Linux, VS Code, HTML, CSS
+<div align="center">
 
-# GitHub Analytics
-Add:
-- GitHub Stats
-- Top Languages
-- Contribution Streak
-- Activity Graph
-- Profile Trophy Wall
+<img width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-Everything should use:
-- Tokyonight / Cyberpunk themes
-- Transparent backgrounds
-- Glowing borders
-- Modern UI aesthetics
+</div>
 
-# Current Mission
-Create a cinematic glowing code block showing:
-- Advanced Cyber Security
-- Artificial Intelligence
-- Full Stack Development
-- Advanced Python
-- Java Backend Development
-- Ethical Hacking
+<br>
 
-# Developer Quote
-Add a stylish futuristic quote section:
-“Securing the future while building intelligent systems.”
+<div align="center">
 
-# Connect With Me
-Include glowing social badges for:
-- GitHub
-- LinkedIn
-- Gmail
-- Portfolio
+🎓 Cyber Security Engineering Student  
+🤖 AI & Full-Stack Developer  
+🔐 Passionate About Ethical Hacking & Security Research  
+🚀 Building Real-World AI Systems & Developer Tools  
+🏆 Hackathon Finalist & Continuous Learner  
+🌱 Exploring Cloud Security, LLMs & Threat Detection  
 
-Extra Effects Required:
-- Animated gradient text
-- Neon glow effects
-- Smooth section transitions
-- Hacker/cyberpunk cinematic feel
-- High-end recruiter-attracting design
-- Premium open-source portfolio appearance
-- Clean spacing and alignment
-- Professional readability despite heavy visuals
+</div>
 
-Make the README look like:
-- A top-tier GitHub profile of an elite AI + Cyber Security engineer
-- Cinematic hacker portfolio
-- Visually unforgettable
-- Modern 2026 developer branding style
+---
 
-Generate the complete advanced GitHub README.md code with all effects, banners, animations, badges, stats, and sections fully included.
+# ⚡ Quick Info
+
+<div align="center">
+
+| 💡 Focus | 🔥 Interests | 🎯 Goal |
+|---|---|---|
+| Cyber Security | AI Development | Elite Security Engineer |
+| Full Stack Dev | Ethical Hacking | Build Innovative Systems |
+| Open Source | Automation | Tech Entrepreneurship |
+
+</div>
+
+---
+
+# 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,javascript,react,nodejs,mysql,mongodb,git,github,linux,vscode"/>
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=727724eucy106-ps&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=727724eucy106-ps&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=727724eucy106-ps&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Sudharshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=727724eucy106-ps&theme=tokyo-night&hide_border=true)](https://github.com/727724eucy106-ps)
+
+---
+
+# 🏆 GitHub Trophy Wall
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=727724eucy106-ps&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+```txt
+🔐 Advanced Cyber Security
+🤖 Artificial Intelligence
+🌐 Full Stack Development
+🐍 Advanced Python
+☕ Java Development
+🛡 Ethical Hacking
