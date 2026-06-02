@@ -1,4 +1,5 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/55bc8b88-c5ca-47bd-9e2c-78f7fa019896" /><img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sudharshan%20P%20S&fontAlign=50&fontAlignY=40&desc=Cyber%20Security%20%7C%20AI%20Developer%20%7C%20Full%20Stack&descAlignY=60&animation=twinkling&fontColor=ffffff"/>
+````md
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sudharshan%20P%20S&fontAlign=50&fontAlignY=40&desc=Cyber%20Security%20%7C%20AI%20Developer%20%7C%20Full%20Stack&descAlignY=60&animation=twinkling&fontColor=ffffff"/>
 
 <h1 align="center">Hi 👋, I'm Sudharshan</h1>
 
@@ -10,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=727724eucy106-ps&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=727724eucy106-ps&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
@@ -18,7 +19,7 @@
 
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## 🚀 About Me
+# 🚀 About Me
 
 <div align="center">
 
@@ -41,7 +42,7 @@
 
 ---
 
-## ⚡ Quick Info
+# ⚡ Quick Info
 
 <div align="center">
 
@@ -53,11 +54,13 @@
 
 </div>
 
+---
+
 # 🚀 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,javascript,git,github,linux,vscode,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,javascript,react,nodejs,mysql,mongodb,git,github,linux,vscode"/>
 
 </div>
 
@@ -110,18 +113,18 @@
 🐍 Advanced Python
 ☕ Java Development
 🛡 Ethical Hacking
-```
+````
 
 ---
 
 # 📂 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🔐 Cyber Security Projects | Security tools and learning |
-| 🤖 AI Projects | AI experiments and development |
-| ☕ Java Projects | Java mini projects and systems |
-| 🌐 Portfolio Website | Personal portfolio and web works |
+| Project                    | Description                      |
+| -------------------------- | -------------------------------- |
+| 🔐 Cyber Security Projects | Security tools and learning      |
+| 🤖 AI Projects             | AI experiments and development   |
+| ☕ Java Projects            | Java mini projects and systems   |
+| 🌐 Portfolio Website       | Personal portfolio and web works |
 
 ---
 
@@ -133,7 +136,19 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/in/sudharshan-ps-5a6b9a325">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/727724eucy106-ps/.github/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
@@ -143,11 +158,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/727724eucy106-ps/.github/output/github-contribution-grid-snake-dark.svg" />
-</p>
+```
+```
